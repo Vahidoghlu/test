@@ -1,2 +1,4 @@
+ git revert
+
 git dersleri git add əmri
 git gui&
